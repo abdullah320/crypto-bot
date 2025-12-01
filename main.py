@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TELEGRAM_TOKEN = "YOUR_TOKEN_HERE"
+TELEGRAM_TOKEN = "8075741745:AAE2vGnNe04Aprs4DA7Ty-G2t6XT1SYWjHo"
 WATCHLIST = ['btc','eth','sol','xrp','doge','ada','avax','link','dot','matic','shib','pepe','wif','bonk','sui','ton','brett','maga','popcat','mew','floki','ondo','ena']
 
 CHAT_ID = None
